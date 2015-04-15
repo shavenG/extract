@@ -1,0 +1,9 @@
+{
+	"name" : "CRM开发变更单-YN_20150413-资金归集（优化）-xw-001",
+	"path" : "E:/Workspaces For SMARTCRM/Document/变更单/",
+	"newPath" : "E:/Workspaces For CRM/1.Project/CRM_SRC_SERV/",
+	"oldPath" : "https://135.32.89.119:8443/svn/YNCRM/SO/BizHall/CRM_SRC_SERVER/",
+	"fileList" : ["BizHall/WebRoot/cash/cashExp.js",
+		"ChargeManager/src/com/linkage/bss/crm/charge/smo/ChargeManagerSMOImpl.java",
+		"ChargeManager/src/com/linkage/bss/crm/ePay/smo/RePaySMOImpl.java"]
+}

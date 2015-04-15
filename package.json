@@ -1,0 +1,13 @@
+{
+  "name": "extract",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "commander": "~2.7.1",
+    "fs": "~0.0.2",
+    "requirejs@": "~2.1.17"
+  }
+}
