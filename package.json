@@ -8,6 +8,6 @@
   "dependencies": {
     "commander": "~2.7.1",
     "fs": "~0.0.2",
-    "requirejs@": "~2.1.17"
+    "requirejs": "~2.1.17"
   }
 }
